@@ -22,7 +22,6 @@ rm -rf( -r recresive f forcefully)
 eg:rm -f abc.txt to forcefully delete a file.
 rm -rf <directory name name>  
 eg: To delete a directory forcefully
-
 git init -to initlize directoy/repo locally.
 git status: shows changes
 git add files.txt files2.txt files.txt
