@@ -22,4 +22,11 @@ rm -rf( -r recresive f forcefully)
 eg:rm -f abc.txt to forcefully delete a file.
 rm -rf <directory name name>  
 eg: To delete a directory forcefully
-git status:
+
+git init -to initlize directoy/repo locally.
+git status: shows changes
+git add files.txt files2.txt files.txt
+git commit -m "message" - commit changes to git repo
+git log - Shows details of author who commited changes.
+git config --global user.name "kv" - change username
+git config --global user.email "kv@gmail.com" - change email
