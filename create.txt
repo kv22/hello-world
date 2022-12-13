@@ -1,0 +1,32 @@
+Hello Team
+We are learning git
+
+ls- list allfiles
+ll- long list with dates, file name and permissions
+date- displays current date.
+pwd-present working directory
+clear- all basodi
+whoami- my name
+git --version - Shows version of git installed
+touch filename.extension   -create file 
+eg:touch java.txt, touch shell.sh
+touch file1.txt file2.txt file3.txt  - create multiple file
+rm file1.txt file2.txt file3.txt  - removing multiple file
+mkdir devops -create devops folder
+rmdir devops - delete devops folder
+rm * -remove everything from current directory
+ls -l -its same to ll
+rm file* - it will remove all the files start with file
+git init - create repository(now we can use other git commands)
+rm -rf( -r recresive f forcefully)
+eg:rm -f abc.txt to forcefully delete a file.
+rm -rf <directory name name>  
+eg: To delete a directory forcefully
+git init -to initlize directoy/repo locally.
+git status: shows changes
+git add files.txt files2.txt files.txt
+git commit -m "message" - commit changes to git repo
+git log - Shows details of author who commited changes.
+git config --global user.name "kv" - change username
+git config --global user.email "kv@gmail.com" - change email
+git commit -am - to ammend a file changes

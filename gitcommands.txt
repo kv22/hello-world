@@ -29,3 +29,7 @@ git commit -m "message" - commit changes to git repo
 git log - Shows details of author who commited changes.
 git config --global user.name "kv" - change username
 git config --global user.email "kv@gmail.com" - change email
+git commit -am - to ammend a file changes
+
+cat file4.txt - reads data from the file and gives their content as output.
+cp alreadyexistingfile newfile -copy first file to second.
