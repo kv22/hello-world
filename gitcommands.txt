@@ -26,10 +26,12 @@ git init -to initlize directoy/repo locally.
 git status: shows changes
 git add files.txt files2.txt files.txt
 git commit -m "message" - commit changes to git repo
-git log - Shows details of author who commited changes.
+git log - Shows detailed history of all changes eg: author,commit id.
+git log --oneline - Shows short history of all changes
 git config --global user.name "kv" - change username
 git config --global user.email "kv@gmail.com" - change email
 git commit -am - to ammend a file changes
 
 cat file4.txt - reads data from the file and gives their content as output.
 cp alreadyexistingfile newfile -copy first file to second.
+git clone git url - clones all the code from a url to your current folder
